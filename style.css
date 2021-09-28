@@ -16,7 +16,7 @@ nav {
 }
 label.logo {
   color: white;
-  font-size: 35px;
+  font-size: 25px;
   line-height: 80px;
   padding: 0 100px;
   font-weight: lighter;
@@ -32,7 +32,7 @@ nav ul li {
 }
 nav ul li a {
   color: white;
-  font-size: 17px;
+  font-size: 15px;
   padding: 7px 13px;
   border-radius: 3px;
   text-transform: uppercase;
@@ -54,7 +54,7 @@ a:hover {
 #check {
   display: none;
 }
-@media (max-width: 952px) {
+@media (max-width:1000px) {
   label.logo {
     font-size: 30px;
     padding-left: 50px;
@@ -63,7 +63,7 @@ a:hover {
     font-size: 16px;
   }
 }
-@media (max-width: 858px) {
+@media (max-width:1000px) {
   .checkbtn {
     display: block;
   }
