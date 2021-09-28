@@ -99,7 +99,7 @@ a:hover {
   text-align: center;
   color: white;
   background: black;
-  font-weight: 700;
+  font-weight: 500;
   color: white;
   font-size: 35px;
   line-height: 80px;
@@ -178,12 +178,14 @@ a:hover {
 }
 
 .activess {
-  font-family: "NTR", sans-serif;
+   font-family: "NTR", sans-serif;
   text-align: center;
   color: white;
-  font-weight: lighter;
-  font-size: large;
+  background: black;
+  background: lightslategray;
+  transition: 0.5s;
 }
+
 iframe {
  max-width: 100%;
   
