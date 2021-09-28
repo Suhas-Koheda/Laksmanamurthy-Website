@@ -54,16 +54,16 @@ a:hover {
 #check {
   display: none;
 }
-@media (max-width:1000px) {
+@media (max-width: 952px) {
   label.logo {
-    font-size: 30px;
+    font-size: 18px;
     padding-left: 50px;
   }
   nav ul li a {
-    font-size: 16px;
+    font-size: 5px;
   }
 }
-@media (max-width:1000px) {
+@media (max-width: 858px) {
   .checkbtn {
     display: block;
   }
@@ -83,7 +83,7 @@ a:hover {
     line-height: 30px;
   }
   nav ul li a {
-    font-size: 20px;
+    font-size: 12px;
   }
   a:hover,
   a.active {
