@@ -119,6 +119,14 @@ a:hover {
   font-weight: lighter;
   font-size: x-large;
 }
+.activess {
+  font-family: "NTR", sans-serif;
+ text-align: center;
+ color: white;
+ background: black;
+ background: lightslategray;
+ transition: 0.5s;
+}
 .video {
   position: relative;
   padding-bottom: 56.25%;
@@ -177,14 +185,7 @@ a:hover {
   font-size: x-large;
 }
 
-.activess {
-   font-family: "NTR", sans-serif;
-  text-align: center;
-  color: white;
-  background: black;
-  background: lightslategray;
-  transition: 0.5s;
-}
+
 
 iframe {
  max-width: 100%;
