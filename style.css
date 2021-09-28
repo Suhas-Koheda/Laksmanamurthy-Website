@@ -154,7 +154,11 @@ a:hover {
 
 .LINKS {
   font-family: "Caveat", cursive;
+  font-size: 30px;}
+.links{
+  font-family: "NTR", cursive;
   font-size: 30px;
+  color: white;
 }
 .qwerty1 {
   width: 350px;
