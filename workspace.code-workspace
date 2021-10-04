@@ -5,9 +5,12 @@
 		},
 		{
 			"path": "G:\\My Drive\\My Desktop\\Suhas\\Websites\\DR.RLM"
+		},
+		{
+			"path": "..\\Responsive Navbar"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "DR.RLM"
+		"liveServer.settings.multiRootWorkspaceName": "Responsive Navbar"
 	}
 }
